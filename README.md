@@ -2,8 +2,12 @@
 
 Spotify Clone UI made with Flutter
 
-![](/screenshots/HomePage_Print.jpeg =1280x720)
-![](/screenshots/SearchPage_Print.jpeg =1280x720)
-![](/screenshots/LibraryPage_Print.jpeg =1280x720)
+<img src="/screenshots/HomePage_Print.jpeg" height="1280" width="720">
+
+
+
+![](/screenshots/HomePage_Print.jpeg)
+![](/screenshots/SearchPage_Print.jpeg)
+![](/screenshots/LibraryPage_Print.jpeg)
 ![](/screenshots/SongPage_Print.jpeg =1280x720)
 
